@@ -1,0 +1,11 @@
+{
+  "Lua.diagnostics.globals": [
+    "hash",
+    "vmath",
+    "physics",
+    "msg",
+    "go",
+    "sprite"
+  ],
+  "vscode-lua-format.configPath": "lua.format"
+}
